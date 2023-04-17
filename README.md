@@ -5,7 +5,7 @@ The models used in this project are:
 2. XLNet  
 3. BERT
 
-These models are fined-tuned on OntoNotes v5, converted in Spacy format for the training.
+These models have been fine-tuned on OntoNotes v5, converted in Spacy format for the training.
 
 The models have been uploaded to Hugging Face:
 
