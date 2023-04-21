@@ -1,6 +1,6 @@
 # Named Entity Recognition with Transformer-based models using SpaCy
 
-The models used in this project are: 
+The models trained in this project are: 
 1. RoBERTa
 2. XLNet  
 3. BERT
