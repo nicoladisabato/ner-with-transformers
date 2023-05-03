@@ -51,3 +51,5 @@ Also, to train a pipeline using Spacy you need a configuration file ̄config.cfg
 # Quantitative analysis
 
 The different trained models were compared quantitatively by evaluating both their performance based on the model's general precision, recall and f-score metrics and the scores relating to the specific GPE entity of the Named Entity Extraction task. The following table shows the final results.
+
+<img src="quantitative_analysis.png" width="550" />
