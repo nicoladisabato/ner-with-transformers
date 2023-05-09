@@ -1,9 +1,9 @@
 # Named Entity Recognition with Transformer-based models using SpaCy
 
 The models trained in this project are: 
-1. RoBERTa
-2. XLNet  
-3. BERT
+1. RoBERTa  
+2. BERT
+3. XLNet
 
 These models have been fine-tuned on OntoNotes v5, converted in Spacy format for the training.
 
