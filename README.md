@@ -10,6 +10,8 @@ These models have been fine-tuned on OntoNotes v5, converted in Spacy format for
 The models have been uploaded to Hugging Face:
 
 1. [RoBERTa fine-tuned](https://huggingface.co/nicoladisabato/en_roberta_fine_tuned_ner)
+2. [BERT fine-tuned](https://huggingface.co/nicoladisabato/en_bert_fine_tuned_ner)
+3. [XLNet fine-tuned](https://huggingface.co/nicoladisabato/en_xlnet_fine_tuned_ner)
 
 
 In the config_files_NER there are all the config files used for the model training.
